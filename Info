@@ -1,0 +1,10 @@
+This is the beginning stages of VikingBotAI, which is a rule-based (and potentially machine-learning in the future) artificial intelligence chatbot.
+
+
+
+______________________________________________________________________________
+CHANGELOG
+
+Version 0.1 (August 21, 2023)
+>Project begins.
+>Added random number generator between 1 and 100.
